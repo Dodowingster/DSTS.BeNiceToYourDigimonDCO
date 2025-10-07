@@ -21,10 +21,10 @@ AS OF RIGHT NOW, ONLY **ENGLISH LANGUAGE** IS THE ONLY ONE SUPPORTED. IF YOU WAN
 #### **1. Dialogue Driven by Personality**
 Your Digimon's core personality now dictates *how* they speak, not just what stats they prefer:
 
-* A **Valor (Courage)** Digimon might greet you with a bold challenge or boast about their strength; **it loves to train and push its limits.**
-* A **Philanthropy (Love)** Digimon will ask questions about your day and express genuine care; **it secretly craves your affection.**
-* A **Friendship** Digimon is laid-back and casual, **often cracking jokes to ease tension.**
-* A **Wisdom** Digimon will offer tactical insights or muse philosophically; **be careful—this Digimon is sly and a bookworm.**
+* **Valor (Courage)** Digimon might greet you with a bold challenge or boast about their strength; **it loves to train and push its limits.**
+* **Philanthropy (Love)** Digimon will ask questions about your day and express genuine care; **it secretly craves your affection.**
+* **Amicability (Friendship)** Digimon is laid-back and casual, **often cracking jokes to ease tension.**
+* **Wisdom** Digimon will offer tactical insights or muse philosophically; **be careful—this Digimon is sly and a bookworm.**
 
 #### **2. Overhauled Chat Bubbles**
 The subtle partner conversations you trigger after battles now contain completely new questions, comments, and reactions that reflect your Digimon's current personality. This greatly increases the variety and relevance of every interaction.
