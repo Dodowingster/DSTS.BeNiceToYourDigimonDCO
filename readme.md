@@ -6,13 +6,15 @@
 
 ## **Overview: Finally, Partners with Personality!**
 
-Have you ever wished your Digimon felt less like a battle unit and more like a true, distinct partner?
+Have you ever wished your Digimon felt less like a battle unit and more like a true, distinct partner? Did it ever pissed you off how most of your options to keep your Digimon Personality the same is by being a douchebag?
 
 **Be Nice to Your Mon - DCO (Dialogue Chat Overhaul)** is a massive mod that completely rewrites and expands the in-game dialogue system for *Digimon Story: Time Stranger*. By tapping into the game's existing personality mechanics, this mod ensures that every Digimon feels unique, expressive, and truly *yours*.
 
-We're replacing generic, repetitive dialogue with thousands of new lines that reflect the bond between Agent and Digimon, adding emotional depth and humor back into the Digital World.
+I am replacing generic, repetitive dialogue with thousands of new lines that reflect the bond between Agent and Digimon, adding emotional depth and humor back into the Digital World.
 
-**⚠️ IMPORTANT W.I.P. NOTE:** This mod is currently **Work in Progress (1400 / 3200 dialogues complete).** Please understand that some dialogue may still be the original, "vanilla-boring" text.
+**⚠️ IMPORTANT W.I.P. NOTE:** This mod is currently **Work in Progress (1400 / 3200 dialogues complete).** Please understand that some dialogue may still be the original, "vanilla-boring" text. 
+
+AS OF RIGHT NOW, ONLY **ENGLISH LANGUAGE** IS THE ONLY ONE SUPPORTED. IF YOU WANT TO TRANSLATE, FEEL FREE TO DO SO. YOU HAVE MY FULL PERMISSION.
 
 ### **Core Features**
 
