@@ -4,6 +4,8 @@
 
 -----
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C1C6R677O)
+
 ## **Overview: Finally, Partners with Personality!**
 
 Have you ever wished your Digimon felt less like a battle unit and more like a true, distinct partner? Did it ever pissed you off how most of your options to keep your Digimon Personality the same is by being a douchebag?
