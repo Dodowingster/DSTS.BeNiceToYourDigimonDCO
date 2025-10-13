@@ -14,7 +14,7 @@ Have you ever wished your Digimon felt less like a battle unit and more like a t
 
 I am replacing generic, repetitive dialogue with thousands of new lines that reflect the bond between Agent and Digimon, adding emotional depth and humor back into the Digital World.
 
-**⚠️ IMPORTANT W.I.P. NOTE:** This mod is currently **Work in Progress (1400 / 3200 dialogues complete).** Please understand that some dialogue may still be the original, "vanilla-boring" text. 
+~~**⚠️ IMPORTANT W.I.P. NOTE:** This mod is currently **Work in Progress (1400 / 3200 dialogues complete).** Please understand that some dialogue may still be the original, "vanilla-boring" text.~~
 
 AS OF RIGHT NOW, ONLY **ENGLISH LANGUAGE** IS THE ONLY ONE SUPPORTED. IF YOU WANT TO TRANSLATE, FEEL FREE TO DO SO. YOU HAVE MY FULL PERMISSION.
 
